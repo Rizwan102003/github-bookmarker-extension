@@ -10,6 +10,9 @@
     },
     "host_permissions": [
       "https://github.com/*"
-    ]
+    ],
+  "options_page": "bookmarks.html",
+  "icons": {
+    "128": "icons/icon128.png"
   }
-  
+}
